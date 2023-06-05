@@ -1,5 +1,5 @@
 # CV Project
-This is a personal curriculum vitae (CV) website created by Jasper van de Ven. It showcases his skills, experience, and achievements.
+This is a personal curriculum vitae (CV) website created by Jasper van de Ven. It showcases skills, experience, and achievements.
 
 ## GitHub Pages Link
 The website is hosted on GitHub Pages and can be accessed [here](https://jaspervdv07.github.io/CV-jasper-van-de-ven/)
