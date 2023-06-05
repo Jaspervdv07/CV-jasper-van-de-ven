@@ -1,25 +1,20 @@
-# prj4-cv
+# CV Project
+This is a personal curriculum vitae (CV) website created by Jasper van de Ven. It showcases his skills, experience, and achievements.
 
-A template to create a CV while learning HTML and CSS
+## GitHub Pages Link
+The website is hosted on GitHub Pages and can be accessed [here](https://jaspervdv07.github.io/CV-jasper-van-de-ven/)
 
-## See it live!
+## Run Locally
+To run the project locally, follow these steps:
 
-Click on <https://buas-media-interactive.github.io/prj4-cv/> to see what the résumé looks like when published!
+1. Clone the repository
+```bash
+    git clone https:https://github.com/Jaspervdv07/CV-jasper-van-de-ven.git
+```
+2. Open the project in your preferred code editor.
+3. Launch the `index.html` file in a web browser.
 
-## Create your own CV
-
-Create your own GitHub repository based on this template by clicking on
-[Use this template](https://github.com/buas-media-interactive/prj4-cv/generate).
-
-## Course requirements
-
-In order to pass the individual assessment, you must modify the following elements:
-
-- Modify the **text content**: Change your name, add jobs, schools, skills and hobbies to the CV
-- Modify the **styles**: Make sure that at least one font, one text colour and one background color are changed.
-- Add **images**: Put your portrait and the logos of the employers you've worked with and schools you've studied in
-- Publish it with **GitHub pages**: Add the link to your CV in the _README.md_ file (yes, this one). We'll be checking your work by clicking on that link, and we'll also check that it works on a mobile phone.
-- Check and **fix any errors**: there should be no broken links or images, and there must be no error when checking your CV on <https://validator.w3.org/>
+This wil open the CV project website locally.
 
 ## Image credits
 
